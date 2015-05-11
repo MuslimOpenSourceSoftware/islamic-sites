@@ -2,7 +2,7 @@
 
 لسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-A collection of muslim islamic website. Welcome and let's easy to contribute by read how to contributing.
+A collection of muslim islamic website. Welcome and let's easy to contribute by read [How to Contributing](https://github.com/MuslimOpenSourceSoftware/islamic-sites/blob/master/CONTRIBUTE.md).
 
 ### Index
 * [Islam Resources](#IslamResources)
