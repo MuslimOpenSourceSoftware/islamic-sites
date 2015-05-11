@@ -7,7 +7,7 @@ A collection of muslim islamic website. Welcome and let's easy to contribute by 
 ### Index
 * [Articles](#Articles)
 * [Islam Resources](#IslamResources)
-* [Videos](Videos)
+* [Videos](#Videos)
 
 ### Articles
 * [Rumaysho - Artikel kajian ilmu,audio,video.](http://rumaysho.com/)
